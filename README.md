@@ -1,0 +1,3 @@
+Hi, I’m @nilsa1412. I'm an economics and engineering student from germany. 
+I’m currently learning Python, R, Technical Analysis, SQL, VBA ...
+Reach me via email nils.arndt@outlook.de
